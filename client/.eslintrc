@@ -1,0 +1,17 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 7,
+    "sourceType": "module"
+  },
+  "extends": "airbnb",
+  "rules": {
+    "semi": [0],
+    "react/jsx-filename-extension": [0],
+    "no-unused-vars": [0]
+  }
+}
